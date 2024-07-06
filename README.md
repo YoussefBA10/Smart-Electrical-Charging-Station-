@@ -24,3 +24,11 @@ Refill Ports: The refill ports display real-time information about the time requ
 **Conclusion**
 
 This Electrical Smart Charging Station project combines a powerful desktop application with advanced hardware components to provide a seamless and efficient experience for both station operators and clients. The application's comprehensive features and the innovative hardware design make it a cutting-edge solution in the world of electric vehicle charging infrastructure.
+
+**Built With**
+
+  -QT
+  -QSS
+  -C++
+  -Arduino
+  -Oracle
