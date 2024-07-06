@@ -28,7 +28,11 @@ This Electrical Smart Charging Station project combines a powerful desktop appli
 **Built With**
 
   -QT
+  
   -QSS
+  
   -C++
+
   -Arduino
+  
   -Oracle
