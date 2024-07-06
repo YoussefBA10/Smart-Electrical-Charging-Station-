@@ -1,6 +1,6 @@
 # Smart-Electrical-Charging-Station-
 This project is an advanced desktop application for managing an electrical smart charging station. The application offers a wide range of functionalities for both the station operators and the clients.
-![Capture2](Capture2.PNG)
+!(Capture2.PNG)
 
 **Key Features**
 
